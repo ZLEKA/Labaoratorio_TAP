@@ -6,6 +6,7 @@ using TAP22_23.AlarmClock.Interface;
 using TAP22_23.AuctionSite.Interface;
 using System.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
+using RangeAttribute = System.ComponentModel.DataAnnotations.RangeAttribute;
 
 namespace Carrega_Daniele
 {
